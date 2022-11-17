@@ -1,0 +1,194 @@
+[
+  {
+    "Id": 1,
+    "ProvinceName": "آذربايجان شرقی",
+    "ProvinceCode": 3,
+    "AreaCode": 914
+  },
+  {
+    "Id": 2,
+    "ProvinceName": "آذربايجان غربی",
+    "ProvinceCode": 16,
+    "AreaCode": 914
+  },
+  {
+    "Id": 3,
+    "ProvinceName": "اردبيل",
+    "ProvinceCode": 15,
+    "AreaCode": 914
+  },
+  {
+    "Id": 4,
+    "ProvinceName": "اصفهان",
+    "ProvinceCode": 6,
+    "AreaCode": 913
+  },
+  {
+    "Id": 5,
+    "ProvinceName": "البرز",
+    "ProvinceCode": 31,
+    "AreaCode": 912
+  },
+  {
+    "Id": 6,
+    "ProvinceName": "ايلام",
+    "ProvinceCode": 27,
+    "AreaCode": 918
+  },
+  {
+    "Id": 7,
+    "ProvinceName": "بوشهر",
+    "ProvinceCode": 21,
+    "AreaCode": 917
+  },
+  {
+    "Id": 8,
+    "ProvinceName": "تهران",
+    "ProvinceCode": 1,
+    "AreaCode": 912
+  },
+  {
+    "Id": 9,
+    "ProvinceName": "چهارمحال‌وبختياری",
+    "ProvinceCode": 24,
+    "AreaCode": 913
+  },
+  {
+    "Id": 10,
+    "ProvinceName": "خراسان جنوبی",
+    "ProvinceCode": 30,
+    "AreaCode": 915
+  },
+  {
+    "Id": 11,
+    "ProvinceName": "خراسان رضوی",
+    "ProvinceCode": 7,
+    "AreaCode": 915
+  },
+  {
+    "Id": 12,
+    "ProvinceName": "خراسان شمالی",
+    "ProvinceCode": 29,
+    "AreaCode": 915
+  },
+  {
+    "Id": 13,
+    "ProvinceName": "خوزستان",
+    "ProvinceCode": 4,
+    "AreaCode": 916
+  },
+  {
+    "Id": 14,
+    "ProvinceName": "زنجان",
+    "ProvinceCode": 12,
+    "AreaCode": 912
+  },
+  {
+    "Id": 15,
+    "ProvinceName": "سمنان",
+    "ProvinceCode": 9,
+    "AreaCode": 912
+  },
+  {
+    "Id": 16,
+    "ProvinceName": "سيستان‌وبلوچستان",
+    "ProvinceCode": 26,
+    "AreaCode": 915
+  },
+  {
+    "Id": 17,
+    "ProvinceName": "فارس",
+    "ProvinceCode": 5,
+    "AreaCode": 917
+  },
+  {
+    "Id": 18,
+    "ProvinceName": "قزوين",
+    "ProvinceCode": 8,
+    "AreaCode": 912
+  },
+  {
+    "Id": 19,
+    "ProvinceName": "قم",
+    "ProvinceCode": 10,
+    "AreaCode": 912
+  },
+  {
+    "Id": 20,
+    "ProvinceName": "کردستان",
+    "ProvinceCode": 18,
+    "AreaCode": 918
+  },
+  {
+    "Id": 21,
+    "ProvinceName": "کرمان",
+    "ProvinceCode": 22,
+    "AreaCode": 913
+  },
+  {
+    "Id": 22,
+    "ProvinceName": "کرمانشاه",
+    "ProvinceCode": 19,
+    "AreaCode": 918
+  },
+  {
+    "Id": 23,
+    "ProvinceName": "کهگيلويه‌وبويراحمد",
+    "ProvinceCode": 28,
+    "AreaCode": 917
+  },
+  {
+    "Id": 24,
+    "ProvinceName": "گلستان",
+    "ProvinceCode": 14,
+    "AreaCode": 911
+  },
+  {
+    "Id": 25,
+    "ProvinceName": "گيلان",
+    "ProvinceCode": 2,
+    "AreaCode": 911
+  },
+  {
+    "Id": 26,
+    "ProvinceName": "لرستان",
+    "ProvinceCode": 20,
+    "AreaCode": 916
+  },
+  {
+    "Id": 27,
+    "ProvinceName": "مازندران",
+    "ProvinceCode": 13,
+    "AreaCode": 911
+  },
+  {
+    "Id": 28,
+    "ProvinceName": "مرکزی",
+    "ProvinceCode": 11,
+    "AreaCode": 918
+  },
+  {
+    "Id": 29,
+    "ProvinceName": "هرمزگان",
+    "ProvinceCode": 23,
+    "AreaCode": 917
+  },
+  {
+    "Id": 30,
+    "ProvinceName": "همدان",
+    "ProvinceCode": 17,
+    "AreaCode": 918
+  },
+  {
+    "Id": 31,
+    "ProvinceName": "يزد",
+    "ProvinceCode": 25,
+    "AreaCode": 913
+  },
+  {
+    "Id": 32,
+    "ProvinceName": "کشوری",
+    "ProvinceCode": 1000,
+    "AreaCode": "NULL"
+  }
+]
