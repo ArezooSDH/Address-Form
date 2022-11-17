@@ -1,0 +1,60 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Style.css" />
+    <title>Document</title>
+  </head>
+  <body dir="rtl">
+      <div class="container"></div>
+    <div class="infButton">
+      <button type="button" onclick="showForm()">پر کردن اطلاعات</button>
+    </div>
+    <div class="modal">
+      <div class="modalTitle">
+          <h3>ویرایش</h3>
+      </div>
+    <hr/>
+      <div class="modalBody">
+          <form>
+              <div>
+              <label for="firstName">نام</label>
+              <br/>
+              <input id="firstName" type="text"/>
+            </div>
+        <br/>
+            <div>
+                <label for="lastName">نام خانوادگی</label>
+                <br/>
+                <input id="lastName" type="text"/>
+              </div>
+              <br/>
+              <div>
+                  <label for="provience">استان</label>
+                  <br/>
+                  <select id="provience" onchange="loadCity()">
+                      <option value="-1" selected>استان را انتخاب نمایید</option>
+                  </select>
+              </div>
+              <div>
+                  <label for="city">شهر</label>
+                  <br/>
+                  <select id="city">
+                      <option selected>شهر را انتخاب نمایید</option>
+                  </select>
+              </div>
+
+  
+
+          </form>
+      </div>
+    <hr/>
+      <div class="modalFooter">
+          <button type="button" id="closeModal">بستن</button>
+        </div>
+    </div>
+    <script src="jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
